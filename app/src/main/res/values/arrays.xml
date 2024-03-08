@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="montos">
+        <item>100000</item>
+        <item>200000</item>
+        <item>300000</item>
+    </array>
+
+    <array name="periodos">
+        <item>Mensual</item>
+        <item>Quincenal</item>
+    </array>
+
+</resources>
